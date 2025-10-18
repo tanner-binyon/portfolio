@@ -1,8 +1,8 @@
 # Data Analyst 
 
 ## Education
-- B.S., Exercise and Sports Science | Texas State University (_December 2022_)
-- M.S., Data Analytics | (_exp. December 2026_)
+**- B.S., Exercise and Sports Science | Texas State University (_December 2022_)**
+**- M.S., Data Analytics | (_exp. December 2026_)**
 - Certified Applied Functional Scientist | (_Gray Institute of PT_)
 - 3DMAPS | (_Gray Institute of PT_)
 - Applied Health and Human Performance I | (_Institute of Motion_)
