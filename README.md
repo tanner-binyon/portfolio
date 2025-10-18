@@ -25,6 +25,6 @@
 - Used knowledge from certifications to accelerate clients towards their mobility goals
   
 **GroupEx Coach @ Raw Fitness (_12/2023-10/2024_)**
-- designed and implemented exercise programming according to company guidelines
-- provided high level movement instruction by using knowledge from self funded certifications
+- Helped members loose weight and get stronger by designing and implementing exercise programming according to company guidelines
+- Provided high level movement instruction by using knowledge from self funded certifications
 
