@@ -2,15 +2,17 @@
 
 ## Education
 - B.S., Exercise and Sports Science | Texas State University (_December 2022_)
-- M.S., Data Analytics (_exp. December 2026_)
+- M.S., Data Analytics | (_exp. December 2026_)
 - Certified Applied Functional Scientist | (_Gray Institute of PT_)
 - 3DMAPS | (_Gray Institute of PT_)
 - Applied Health and Human Performance I | (_Institute of Motion_)
+  
 
 ## Relevant Completed Coursework 
 - Fundamentals of Data Science
 - Introduction to Statistical Modeling in R
 - Data Science for Business in R
+
 
 ## Work Experience
 **Certified Recovery Specialist @ Airrosti Rehab Centers (_10/2024-present_)**
