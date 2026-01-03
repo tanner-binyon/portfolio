@@ -9,7 +9,7 @@
   
 
 ## Relevant Completed Coursework 
-- Fundamentals of Data Science
+- Principals of Python Programming
 - Introduction to Statistical Modeling in R
 - Data Science for Business in R
 
